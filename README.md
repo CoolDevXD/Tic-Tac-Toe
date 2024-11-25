@@ -2,7 +2,7 @@
 
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project allows two players to play the classic game in a responsive and visually appealing interface.
 
-![Tic-Tac-Toe Game Screenshot](./screenshot.png)
+![Tic-Tac-Toe Game Screenshot](tic-tac-toe_ss.png)
 
 ## Features
 - Two-player mode with alternating turns.
